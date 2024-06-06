@@ -1,0 +1,1 @@
+cl.exe main.c /o build\main.exe
